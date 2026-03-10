@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sum Example</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+function add() {
+    var first = parseFloat(document.getElementById("text1").value);
+    var second = parseFloat(document.getElementById("text2").value);
+
+    // if (isNaN(first) || isNaN(second)) {
+    //     alert("Please enter valid numbers");
+    //     return;
+    // }
+
+    var total = first + second;
+    alert("The total is " + total);
+}
+
+</script>
+
+<pre>
+1st Number: <input type="text" id="text1" name="first" placeholder="enter 1st number"/>
+2nd Number: <input type="text" id="text2" name="second" placeholder="enter 2nd number"/>
+
+<input type="button" value="sum" onclick="add()"/>
+</pre>
+
+</body>
+</html>

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|d:\\sukhmanpreet_exam2_solution\\dogapp\\dogapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{134EDB01-37A9-3A99-49B8-CFACF72FFA79}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T05:38:59.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogApp\\Controllers\\DogController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogApp\\Controllers\\DogController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:07:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-14T04:46:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:23:20.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:02:57.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:11:24.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T08:33:01.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "DogApp\\Models\\Dog.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\DogApp\\DogApp\\Models\\Dog.cs",
+              "RelativeToolTip": "DogApp\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:00:27.172Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

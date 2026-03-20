@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|d:\\sukhmanpreet_exam2_solution\\layoutandsectionexample\\layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C864CE5-2100-47B0-9936-06CEB1B7C42F}|LayoutAndSectionExample\\LayoutAndSectionExample.csproj|solutionrelative:layoutandsectionexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:27:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Dept\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:26:05.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:05:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:16.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:03:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeptController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Controllers\\DeptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:12:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:27:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Employee.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:41.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Models\\Department.cs",
+              "RelativeToolTip": "LayoutAndSectionExample\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:09:06.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:06:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\LayoutAndSectionExample\\LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSectionExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:05:18.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

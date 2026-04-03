@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\migrations\\20260324055840_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\migrations\\20260324055840_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|d:\\sukhmanpreet_exam2_solution\\webapiinasp.netcore\\webapiinasp.netcore\\migrations\\20260325061715_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F08BBF-3D08-74AA-04EE-EFA899991760}|WebApiinAsp.netcore\\WebApiinAsp.netcore.csproj|solutionrelative:webapiinasp.netcore\\migrations\\20260325061715_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T06:25:43.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:22:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T06:20:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeUpdateDTO.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\EmployeeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Models\\EmployeeUpdateDTO.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\EmployeeUpdateDTO.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Models\\EmployeeUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:10:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\EmployeeService.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\EmployeeService.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\EmployeeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:22:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\IEmployee.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\IEmployee.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\IEmployee.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:17:39.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv1IAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:01:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Models\\Employee.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:34:08.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Program.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Program.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:48:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260325061715_imageadded.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Migrations\\20260325061715_imageadded.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Migrations\\20260325061715_imageadded.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Migrations\\20260325061715_imageadded.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Migrations\\20260325061715_imageadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:17:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Models\\EmpContext.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Models\\EmpContext.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Models\\EmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:35:48.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\appsettings.json",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\appsettings.json",
+              "RelativeToolTip": "WebApiinAsp.netcore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T05:46:04.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260324055840_data.cs",
+              "DocumentMoniker": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Migrations\\20260324055840_data.cs",
+              "RelativeDocumentMoniker": "WebApiinAsp.netcore\\Migrations\\20260324055840_data.cs",
+              "ToolTip": "D:\\sukhmanpreet_Exam2_solution\\WebApiinAsp.netcore\\WebApiinAsp.netcore\\Migrations\\20260324055840_data.cs",
+              "RelativeToolTip": "WebApiinAsp.netcore\\Migrations\\20260324055840_data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:58:41.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
